@@ -1,6 +1,6 @@
 {
-  "name": "ericpeng",
-  "version": "1.0.0",
+  "name": "ericpengcard",
+  "version": "1.0.1",
   "description": "A personal card for ericpeng",
   "main": "/bin/card.js",
   "bin": {
